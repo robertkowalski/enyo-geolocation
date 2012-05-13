@@ -2,8 +2,8 @@
  * Wrapper for navigator.geolocation - compatible with the Phonegap API
  *
  * Tested on: 
- *   Firefox 12.0 (Linux), Chrome 18.0.1025.168 (Linux), webOS 3.0.5 Browser, Android 2.1 Emulator,
- *   mobile Safari (iOS 5.1), iOS 5.1 (Phonegap)
+ *   Firefox 12.0, Chrome 18.0.1025.168, webOS 3.0.5 Browser, Android 2.1 Emulator,
+ *   mobile Safari iOS 5.1, iOS Simulator 5.1 (Phonegap)
  *
  * 
  * Copyright (c) 2012, Robert Kowalski
@@ -16,7 +16,7 @@
  * this list of conditions and the following disclaimer. 
  * Redistributions in binary form must reproduce the above copyright notice, 
  * this list of conditions and the following disclaimer in the documentation 
- * and/or other materials provided with the distribution.
+ * and/or other    materials provided with the distribution.
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" 
  * AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, 
