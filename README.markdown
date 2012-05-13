@@ -1,8 +1,8 @@
 Enyo Geolocation
 ================
 
-Wrapper for navigator.geolocation - compatible with the Phonegap API
---------------------------------------------------------------------
+Enyo kind for geolocations - compatible with the Phonegap API
+--------------------------------------------------------------
 
 
 Tested on: 
